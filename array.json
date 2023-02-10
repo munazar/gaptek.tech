@@ -1,0 +1,9 @@
+const variant = [
+  {variant_name: 'Putih'},
+  {variant_name: 'Kuning'},
+  {variant_name: 'Hijau'},
+  {variant_name: 'Putih'},
+  {variant_name: 'Kelabu'},
+  {variant_name: 'Ungu'},
+  {variant_name: 'Biru'}
+]
